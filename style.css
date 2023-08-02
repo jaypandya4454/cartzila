@@ -1,0 +1,162 @@
+*{
+    margin: 0px;
+    padding: 0px ;
+    box-sizing: border-box  ;
+}
+/* .main{
+    position: fixed;
+    top: 0px;
+} */
+.nv h5{
+    font-size: 25px;
+}
+.nv a{
+    font-size: 20px;
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.nv a:hover {
+    color: blue;
+}
+.banner {
+    position: relative;
+}
+
+.bc {
+    position: absolute;
+    top: 250px;
+    text-align: center;
+    left: 125px;
+    color: white;
+}
+
+.bc h1 {
+    font-family: 'Carter One', cursive;
+}
+
+.bc p {
+    font-family: 'Victor Mono', monospace;
+}
+
+.bc button {
+    width: 125px;
+    height: 35px;
+    border-radius: 12px;
+    color: white;
+    border: none;
+    background-color: blue;
+}
+
+.bc button:hover {
+    background-color: darkblue;
+    cursor: pointer;
+}
+
+
+.Products h3 {
+    margin-top: 25px;
+    font-family: 'Nunito Sans', sans-serif;
+
+    font-size: 33px;
+}
+.Products .pi {
+    padding-top: 20px;
+    font-size: 17px;
+    padding-left:100px;
+    font-family: 'Victor Mono', monospace;
+}
+
+.Products button {
+    margin-left: 100px;
+    margin-top: 15px;
+    width: 125px;
+    height: 35px;
+    border-radius: 12px;
+    color: white;
+    border: none;
+    background-color: blue;
+}
+
+
+.Products .bttn {
+    margin-top: 60px;
+}
+
+.Products button:hover {
+    background-color: darkblue;
+    cursor: pointer;
+}
+
+.Products .pp {
+    padding-top: 25px;
+}
+.Products .pp img:hover {
+    opacity: 0.5;
+    width:320px;
+} 
+
+
+
+ .pp img {
+    box-shadow: 0px 0px 5px gray;
+    width: 300px;
+}
+.gallery h3 {
+    padding-top: 65px;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 33px;
+}
+
+.gallery .pgi img {
+    border-radius: 25px;
+    width: 400px;
+    margin-top: 25px;
+}
+
+.pgi img:hover{
+    opacity: 0.5;
+    cursor: pointer;
+}
+
+.more h3 {
+    margin-top: 25px;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 33px;
+}
+
+.more h5 {
+    color: gray;
+    font-size: 17px;
+}
+
+.more p {
+    width: 50%;
+    text-align: justify;
+    font-size: 14px;
+
+}
+
+.md {
+    padding-top: 45px;
+    padding-left: 250px;
+}
+.review {
+    background-color: rgb(241, 242, 242);
+}
+.rh h3 {
+    margin-top: 25px;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 33px;
+    text-align: center;
+}
+footer a {
+    color: white;
+}
+ footer a:hover {
+    color: blue;
+}
+
+
+
+
